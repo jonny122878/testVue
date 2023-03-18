@@ -1,6 +1,9 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
+  <h1>大樂高</h1>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="副廠"/>
+
 </template>
 
 <script>
